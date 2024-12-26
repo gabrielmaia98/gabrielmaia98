@@ -9,7 +9,7 @@ With expertise in tools such as Python, R, Power BI, and SQL, I transform data i
     - SQL,
     - Python,
     - R.
-- Additional skills I'm currently working at:
+- Additional skills I'm currently working on:
     - LaTeX,
     - Figma,
     - HTML, CSS.
